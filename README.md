@@ -83,6 +83,25 @@ Refer to the respective tool documentation for installation instructions.
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
+## Maintainers :
 
-This project is licensed under the MIT License.
+`This Repo is maintained by : `
+
+- [Shubham Rooter](https://github.com/shubham-rooter)
+
+### Author :
+
+**Shubham Rooter**
+
+* [Github](https://www.github.com/shubham-rooter)
+* [Twitter](https://www.twitter.com/shubhamtiwari_r)
+* [Instagram](https://www.instagram.com/shubham_rooter)
+* [Linkdin](https://www.linkedin.com/in/shubham-tiwari09/)  
+
+### License :
+
+Copyright © 2023, [Shubham Rooter](https://github.com/Shubham-Rooter).
+Released under the [MIT License](LICENSE).
+
+***Thankyou.***
+***Happy Hunting..***
