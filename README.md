@@ -35,6 +35,15 @@ Refer to the respective tool documentation for installation instructions.
 - Conducts vulnerability scanning with Nuclei, a highly extensible and fast scanner for detecting potential vulnerabilities.
 - Performs automated reconnaissance with Amass, a versatile and comprehensive tool for discovering subdomains, domain names, and associated IP addresses.
 
+## Options
+
+    -h or --help: Display the usage instructions.
+    -l <file> or --list <file>: Specify a file containing target domain(s) to scan.
+    -d <domain> or --domain <domain>: Specify a single target domain to scan.
+    -o <directory> or --output <directory>: Specify the output directory path.
+    -nt <threads> or --nmap-threads <threads>: Specify the number of threads for Nmap (default: 100).
+    -dt <threads> or --dirb-threads <threads>: Specify the number of threads for Dirb (default: 10).
+
 ## Usage
 
 1. Clone the repository:
