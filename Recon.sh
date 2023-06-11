@@ -9,8 +9,8 @@ output_file="recon_results.txt"
 # Perform subdomain enumeration
 echo "Performing subdomain enumeration..."
 subdomains=$(subfinder -d $url)
-subdomains+=$(Sublist3r -d $url)
-subdomains+=$(MassDNS -d $url)
+subdomains+=$(sublist3r -d $url)
+subdomains+=$(massdns -d $url)
 echo $subdomains >> $output_file
 
 # Perform directory and file discovery
